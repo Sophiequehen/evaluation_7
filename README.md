@@ -1,3 +1,9 @@
+## Prérequis
+
+Drupal 8
+Drush
+Composer
+
 ## Git
 
 ```
@@ -20,3 +26,9 @@ Aller sur
 http://localhost:8000/core/install.php
 ```
 
+## Module
+
+Deux modules installés : Pathauto et Admintoolbar
+
+AdminToolbar pour simplifier la navigation de l'utilisateur
+Pathauto pour générer automatiquement des alias URL ou des chemins pour différents types de contenu sans que l'utilisateur ne doive spécifier manuellement l'alias de chemin.
